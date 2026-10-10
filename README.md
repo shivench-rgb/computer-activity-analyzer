@@ -135,8 +135,6 @@ The database is excluded from GitHub using `.gitignore` because it contains pers
 ## Author
 
 Shiven Chaware
-
-GitHub: https://github.com/shivenchaware995-spec
 =======
 # computer-activity-analyzer
 A Python-based computer activity tracker that monitors active Windows applications, records usage duration, and stores activity logs in an SQLite database.
