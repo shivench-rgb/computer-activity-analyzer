@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Computer Activity Analyzer
 
 A Python-based application that tracks computer activity and records the time spent using different applications.
@@ -136,3 +137,7 @@ The database is excluded from GitHub using `.gitignore` because it contains pers
 Shiven Chaware
 
 GitHub: https://github.com/shivenchaware995-spec
+=======
+# computer-activity-analyzer
+A Python-based computer activity tracker that monitors active Windows applications, records usage duration, and stores activity logs in an SQLite database.
+>>>>>>> 4f6c3717e005c94b20ea5f5f7304dd2eff66803c
